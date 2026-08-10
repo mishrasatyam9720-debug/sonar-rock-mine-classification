@@ -1,6 +1,6 @@
 # Rock vs Mine Prediction
 
-## Overview
+
 This is a Machine Learning project that predicts whether a sonar signal is reflected from a Rock or a Mine.
 
 The model is trained on sonar data and uses classification techniques to identify the object based on the received signal patterns.
