@@ -31,7 +31,7 @@ The model is trained on sonar data and uses classification techniques to identif
 The model successfully classifies sonar signals as Rock or Mine with good accuracy.
 
 ## How to Run
-1. Clone the repository
+1. Clone the repository 
 2. Install required libraries
 3. Run the notebook
 
